@@ -1,0 +1,2 @@
+# ChessTemplate
+ This project is a basic Chess game template created in Unity, focused on implementing movement logic for all chess pieces. When a player selects a piece (Pawn, Rook, Knight, Bishop, Queen, or King), the game highlights all the possible legal moves for that piece based on the current board state.  Key features include:  Correct and dynamic calculation of legal moves for each piece. Visual representation of available moves when a piece is selected.
