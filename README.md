@@ -1,2 +1,15 @@
-# ChessTemplate
- This project is a basic Chess game template created in Unity, focused on implementing movement logic for all chess pieces. When a player selects a piece (Pawn, Rook, Knight, Bishop, Queen, or King), the game highlights all the possible legal moves for that piece based on the current board state.  Key features include:  Correct and dynamic calculation of legal moves for each piece. Visual representation of available moves when a piece is selected.
+# Chess Game Template
+
+A basic 2D chess game developed in Unity, with full piece movement logic and visual indicators for legal moves.
+
+## Features
+- Full implementation of standard chess piece movement
+- Dynamic calculation of valid moves
+- Highlight system for available moves
+- Clean and extendable architecture
+- Designed for easy rule expansion
+
+## Getting Started
+1. Clone the repo  
+2. Open in Unity 2022.3+  
+3. Hit Play and start playing chess!
